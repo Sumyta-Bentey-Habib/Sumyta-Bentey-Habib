@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/twqJ22Tr/MERN-Stack-wallpaper.jpg" alt="Fullstack Development Wallpaper" width="100%" />
+  <img src="https://i.ibb.co.com/m58SYDvG/image.png" alt="Fullstack Development Wallpaper" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumyta Bentey Habib</h1>
