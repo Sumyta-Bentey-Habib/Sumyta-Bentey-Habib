@@ -1,10 +1,12 @@
+
+
+
+<h1 align="center">Hi 👋, I'm Sumyta Bentey Habib</h1>
+<h3 align="center">Aspiring Full-Stack Developer | MERN & Next.js Enthusiast</h3>
 <!-- Banner Image -->
 <p align="center">
   <img src="https://i.ibb.co.com/m58SYDvG/image.png" alt="Fullstack Development Wallpaper" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Sumyta Bentey Habib</h1>
-<h3 align="center">Aspiring Full-Stack Developer | MERN & Next.js Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumyta-bentey-habib&label=Profile%20views&color=0e75b6&style=flat" alt="sumyta-bentey-habib" />
