@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | MERN & Next.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumyta-bentey-habib&label=Profile%20views&color=0e75b6&style=flat" alt="sumyta-bentey-habib" />
+  <img src="https://komarev.com/ghpvc/?username=sumyta-bentey-habib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 👨‍💻 Check out my projects at [My Portfolio](https://sumyta-bentey-habib.web.app/)  
 - 📫 Contact me: **sumytabenteyhabib@gmail.com**  
 - 📄 View my [Resume](https://drive.google.com/file/d/1btCfcwYiPGdkk_AZjkS-DiV1H5eZQmOA/view?usp=drive_link)  
-- ⚡ Fun fact: I’m learning MERN & Next.js, and sometimes my code surprises even me! 😴➡️💻
+- ⚡ Fun fact: Learning MERN & Next.js, and my code sometimes surprises even me! 😴➡️💻
 
 ---
 
@@ -79,8 +79,26 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumyta-bentey-habib&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumyta-bentey-habib&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumyta-bentey-habib&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+## 🌐 Visitor Count
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumyta-bentey-habib&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://profile-counter.glitch.me/sumyta-bentey-habib/count.svg" />
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sumyta-bentey-habib&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Fun Tech Radar
+<p align="center">
+  <img src="https://wakatime.com/share/@sumyta_benteyhabib/tech-radar.svg" alt="Tech Radar" />
 </p>
