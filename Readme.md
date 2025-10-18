@@ -1,11 +1,9 @@
-
 <p align="center">
-  <img src="https://i.ibb.co.com/m58SYDvG/image.png" alt="Fullstack Development Wallpaper" width="100%" />
+  <img src="https://i.ibb.co/m58SYDvG/image.png" alt="Fullstack Development Wallpaper" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumyta Bentey Habib</h1>
 <h3 align="center">Aspiring Full-Stack Developer | MERN & Next.js Enthusiast</h3>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumyta-bentey-habib&label=Profile%20views&color=0e75b6&style=flat" alt="sumyta-bentey-habib" />
@@ -13,48 +11,50 @@
 
 ---
 
-### 📌 About Me
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sumyta-bentey-habib.web.app/)
-- 📫 How to reach me: **sumytabenteyhabib@gmail.com**
-- 📄 View my resume: [Resume](https://drive.google.com/file/d/1btCfcwYiPGdkk_AZjkS-DiV1H5eZQmOA/view?usp=drive_link)
-- ⚡ Fun fact: Currently learning MERN & Next.js; sometimes my code still surprises me 😴➡️💻
+## 📌 About Me
+- 👨‍💻 Check out my projects at [My Portfolio](https://sumyta-bentey-habib.web.app/)  
+- 📫 Contact me: **sumytabenteyhabib@gmail.com**  
+- 📄 View my [Resume](https://drive.google.com/file/d/1btCfcwYiPGdkk_AZjkS-DiV1H5eZQmOA/view?usp=drive_link)  
+- ⚡ Fun fact: I’m learning MERN & Next.js, and sometimes my code surprises even me! 😴➡️💻
 
 ---
 
-### 🔗 Connect with Me
-<p align="left">
+## 🔗 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/sumytabenteyhabib/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/sumyta_benteyhabib" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://www.hackerearth.com/@sumyta" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-
-| HTML5 | CSS3 | Tailwind CSS | JavaScript | React | Next.js |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/> |
-
-| Node.js | Express | MongoDB | Python | Figma | Firebase |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> |
-
-| DaisyUI | Shadcn | Vercel | Git |
-|:----:|:----:|:----:|:----:|
-| <img src="https://cdn.worldvectorlogo.com/logos/daisyui.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/shadcn.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/vercel-1.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> |
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+</p>
 
 ---
 
-### 🌱 My Learning Journey
-<p align="left">
+## 🌱 My Learning Journey
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-Learning-ff6600?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-Learning-2965f1?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Learning-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -65,21 +65,22 @@
 
 ---
 
-### 🎨 Fun Fact & Hobbies
+## 🎨 Fun Fact & Hobbies
 <p align="center">
-  🎵 Listening to music <br>
-  🎮 Gaming in free time <br>
-  🎨 Designing in Figma <br>
-  💡 Always curious to learn something new
+  🎵 Music lover & playlist curator <br>
+  🎮 Gaming aficionado in free time <br>
+  🎨 Designing interfaces in Figma <br>
+  💡 Always curious and exploring new tech
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumyta-bentey-habib&show_icons=true&locale=en&layout=compact" alt="sumyta-bentey-habib" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumyta-bentey-habib&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumyta-bentey-habib&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumyta-bentey-habib&" alt="sumyta-bentey-habib" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumyta-bentey-habib&layout=compact&theme=radical" alt="Top Languages" />
 </p>
