@@ -23,6 +23,18 @@ I'm a passionate and aspiring **Full-Stack Developer** focused on creating robus
 
 ---
 
+## 🏆 GitHub Achievements
+
+I love collaborating and maintaining a fast-paced development workflow! Here are a few of my recent GitHub milestones:
+
+| Achievement | Status | Meaning |
+|:---:|:---:|:---|
+| **Quickdraw** | Unlocked | Closed a Pull Request within 5 minutes of opening it. (Fast feedback!) |
+| **Pull Shark (x2)** | Bronze | Had multiple Pull Requests merged. (I contribute regularly!) |
+| **YOLO** | Unlocked | Merged a Pull Request without needing a review. (Confident code!) |
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 A glimpse of the technologies I work with. I enjoy using tools that promote efficiency and great user experiences.
@@ -46,7 +58,7 @@ I'm dedicated to mastering the following core technologies to build truly except
   <img src="https://img.shields.io/badge/JavaScript-Deep%20Dive-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React%2FNext.js-Front--End%20Mastery-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js%2FExpress-Back--End%20Performance-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-Database%20Design-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img-shields.io/badge/MongoDB-Database%20Design-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
