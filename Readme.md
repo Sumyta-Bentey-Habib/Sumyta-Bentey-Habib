@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/m58SYDvG/image.png" alt="Fullstack Development Wallpaper" width="100%" />
+  <img src="[https://i.ibb.co.com/m58SYDvG/image.png](https://i.ibb.co.com/m58SYDvG/image.png)" alt="Fullstack Development Wallpaper" width="100%" />
 </p>
 
 <h1 align="center">Hi there! I'm Sumyta Bentey Habib 👋</h1>
