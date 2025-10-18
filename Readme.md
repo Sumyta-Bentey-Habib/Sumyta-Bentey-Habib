@@ -1,6 +1,6 @@
 <p align="center">
-  <img 
-    src="https://i.ibb.co.com/m58SYDvG/image.png" 
+  <img 
+    src="https://github.com/Sumyta-Bentey-Habib/Sumyta-Bentey-Habib/blob/main/image.png?raw=true" 
     alt="Fullstack Development Wallpaper" 
     style="max-width: 90%; height: auto;" 
   />
