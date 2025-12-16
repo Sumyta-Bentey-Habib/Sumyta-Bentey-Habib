@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://sumyta-bentey-habib.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+%26+Next.js+Specialist;Turning+Ideas+into+Scalable+Web+Apps;Passionate+about+Clean+Code+%26+UX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+%26+Next.js+Developer;Turning+Ideas+into+Scalable+Web+Apps;Passionate+about+Clean+Code+%26+UX" alt="Typing SVG" />
   </a>
 </p>
 
