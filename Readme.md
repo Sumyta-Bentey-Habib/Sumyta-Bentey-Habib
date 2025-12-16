@@ -1,3 +1,6 @@
+<h1 align="center">Hi there! I'm Sumyta Bentey Habib 👋</h1>
+<h3 align="center">Full-Stack Developer | Building the Future with MERN & Next.js</h3>
+
 <p align="center">
   <img 
     src="https://github.com/Sumyta-Bentey-Habib/Sumyta-Bentey-Habib/blob/main/image.png?raw=true" 
@@ -6,8 +9,7 @@
   />
 </p>
 
-<h1 align="center">Hi there! I'm Sumyta Bentey Habib 👋</h1>
-<h3 align="center">Full-Stack Developer | Building the Future with MERN & Next.js</h3>
+
 
 
 <p align="center">
@@ -20,7 +22,8 @@
 
 I'm a passionate and aspiring **Full-Stack Developer** focused on creating robust, user-friendly, and modern web applications. My current stack of choice is the powerful combination of **MERN** (MongoDB, Express, React, Node.js) and the performance-driven **Next.js**. I thrive on turning ideas into reality, from the database schema to the final pixel on the screen.
 
-* 🔭 Check out my full range of projects on **[My Portfolio](https://sumyta-bentey-habib.web.app/)**.
+* 🔭 Check out my full range of projects on **[My Portfolio](https://sumyta-bentey-habib.vercel.app/)**.
+* 🔭 Check out my full range of projects on **[My Portfolio]()**.
 * 📧 The best way to reach me is: **sumytabenteyhabib@gmail.com**
 * 📄 Learn more about my experience: **[View my Resume](https://drive.google.com/file/d/1btCfcwYiPGdkk_AZjkS-DiV1H5eZQmOA/view?usp=drive_link)**
 * ⚡ **Fun Fact:** I'm deep into the MERN & Next.js ecosystem; sometimes my code still surprises me (in a good way... mostly! 😉).
