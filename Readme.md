@@ -26,11 +26,11 @@
 
 ## 🚀 About Me
 
-I’m a **passionate Full-Stack Developer** specializing in building modern, scalable, and user-friendly web applications.
+I’m a **passionate Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
 
-My main focus is on **MERN Stack & Next.js**, where I enjoy crafting everything from robust back-end systems to polished, responsive user interfaces.
+My primary expertise lies in the **MERN stack and Next.js**, where I enjoy working across the entire development lifecycle — from designing efficient back-end architectures to crafting intuitive and responsive user interfaces.
 
-> 💡 *I believe great software is built where clean code meets thoughtful design.*
+I love learning new technologies, improving performance, and writing clean, maintainable code that solves real-world problems.
 
 ---
 
@@ -39,17 +39,17 @@ My main focus is on **MERN Stack & Next.js**, where I enjoy crafting everything 
 - 🔭 Portfolio: **[sumyta-bentey-habib.vercel.app](https://sumyta-bentey-habib.vercel.app/)**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/176RlhRwrlo0nE7c_mKOd8ebtKpCdIuLm/view)**
 - 📧 Email: **sumytabenteyhabib@gmail.com**
-- ⚡ Fun Fact: I debug for fun — and sometimes break things just to rebuild them better 😄
+- ⚡ Fun Fact: I enjoy debugging and optimizing code — turning issues into learning opportunities 😄
 
 ---
 
 ## 🏆 GitHub Achievements
 
-| Achievement | Badge | Description |
-|:--:|:--:|---|
-| **Quickdraw** | ⚡ | Closed a PR within minutes |
-| **Pull Shark ×2** | 🦈 | Multiple PRs merged |
-| **YOLO** | 😎 | Confidently merged without review |
+| Achievement | Description |
+|:--:|---|
+| ⚡ **Quickdraw** | Closed a pull request within minutes |
+| 🦈 **Pull Shark ×2** | Multiple pull requests successfully merged |
+| 😎 **YOLO** | Merged a pull request without review |
 
 ---
 
@@ -82,44 +82,37 @@ My main focus is on **MERN Stack & Next.js**, where I enjoy crafting everything 
 
 ## 🌱 Currently Learning & Improving
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React%20%26%20Next.js-Scalable%20Architecture-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-Performance-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-Data%20Modeling-brightgreen?style=for-the-badge&logo=mongodb"/>
-</p>
+I’m consistently working on strengthening my core development skills and best practices, including:
+
+- Advanced **JavaScript** concepts and patterns  
+- Building scalable applications with **React & Next.js**  
+- Writing efficient and secure APIs using **Node.js & Express**  
+- Designing optimized and scalable schemas in **MongoDB**  
+- Improving performance, accessibility, and UX  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Development Philosophy
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumyta-bentey-habib&show_icons=true&theme=vision-friendly-light"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumyta-bentey-habib&layout=compact&theme=vision-friendly-light"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumyta-bentey-habib&theme=vision-friendly-light"/>
-</p>
+- ✅ Write **clean, readable, and maintainable** code  
+- ✅ Focus on **performance and scalability**  
+- ✅ Prioritize **user experience**  
+- ✅ Learn continuously and adapt to new technologies  
 
 ---
 
 ## 🤝 Let’s Connect
 
+I’m always open to discussing new ideas, collaborating on projects, or exploring opportunities to grow as a developer.
+
 <p>
   <a href="https://www.linkedin.com/in/sumytabenteyhabib/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://www.hackerearth.com/@sumyta">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="40"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Let’s build something amazing together.
+  ⭐ Thanks for visiting my profile — feel free to explore my repositories and connect!
 </p>
