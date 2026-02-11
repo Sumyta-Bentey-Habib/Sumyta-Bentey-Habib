@@ -6,22 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumyta-bentey-habib&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat" />
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://github.com/Sumyta-Bentey-Habib/Sumyta-Bentey-Habib/blob/main/image.png?raw=true"
-    alt="Full Stack Developer Banner"
-    width="90%"
-  />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -36,7 +20,7 @@ I love learning new technologies, improving performance, and writing clean, main
 
 ## 🔎 Quick Info
 
-- 🔭 Portfolio: **[sumyta-bentey-habib.vercel.app](https://sumyta-bentey-habib.vercel.app/)**
+- 🔭 Portfolio: **Under Cosmic Construction 🌌**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/176RlhRwrlo0nE7c_mKOd8ebtKpCdIuLm/view)**
 - 📧 Email: **sumytabenteyhabib@gmail.com**
 - ⚡ Fun Fact: I enjoy debugging and optimizing code — turning issues into learning opportunities 😄
@@ -112,6 +96,13 @@ I’m always open to discussing new ideas, collaborating on projects, or explori
 </p>
 
 ---
+<p align="center">
+  <img 
+    src="https://github.com/Sumyta-Bentey-Habib/Sumyta-Bentey-Habib/blob/main/image.png?raw=true"
+    alt="Full Stack Developer Banner"
+    width="50%"
+  />
+</p>
 
 <p align="center">
   ⭐ Thanks for visiting my profile — feel free to explore my repositories and connect!
