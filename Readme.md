@@ -20,7 +20,7 @@ I love learning new technologies, improving performance, and writing clean, main
 
 ## 🔎 Quick Info
 
-- 🔭 Portfolio: **https://sumyta-hub.vercel.app/**
+- 🔭 Portfolio: **https://sumytadev.vercel.app/**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/176RlhRwrlo0nE7c_mKOd8ebtKpCdIuLm/view)**
 - 📧 Email: **sumytabenteyhabib@gmail.com**
 - ⚡ Fun Fact: I enjoy debugging and optimizing code — turning issues into learning opportunities 😄
