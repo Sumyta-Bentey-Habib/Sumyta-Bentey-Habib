@@ -1,109 +1,103 @@
-<h1 align="center">Hi 👋, I'm Sumyta Bentey Habib</h1>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=00E5FF,FF007F,FFEA00&height=250&section=header&text=Sumyta%20Bentey%20Habib&fontSize=50&fontAlignY=38&desc=Full-Stack%20Creator%20%7C%20Code%20Architect&descAlignY=58&descAlign=50&descSize=20&animation=twinkling" width="100%"/>
+</div>
 
 <p align="center">
-  <a href="https://sumyta-bentey-habib.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+%26+Next.js+Developer;Turning+Ideas+into+Scalable+Web+Apps;Passionate+about+Clean+Code+%26+UX" alt="Typing SVG" />
+  <a href="https://sumytadev.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Full-Stack+Architect;MERN+%26+Next.js;Turning+Ideas+into+Scalable+Web+Apps;Passionate+about+Clean+Code+%26+UX" alt="Typing SVG" />
   </a>
 </p>
 
+
+<div align="center">
+  <a href="https://sumytadev.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=00E5FF" alt="Portfolio"/>
+  </a>
+  <a href="mailto:sumytabenteyhabib@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=FF007F" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/176RlhRwrlo0nE7c_mKOd8ebtKpCdIuLm/view" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Resume-0D1117?style=flat-square&logo=google-drive&logoColor=FFEA00" alt="Resume"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumytabenteyhabib/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br/>
+
+## 🚀 `SYSTEM_IDENTITY::ABOUT_ME`
+
+> **`>_ STATUS:`** `ONLINE` 🟢  
+> **`>_ DIRECTIVE:`** Turning creative ideas into functional, clean, and user-friendly web experiences while constantly leveling up my skills.
+
+*   🎯 **`CURRENT_MISSION:`** Building modern, responsive, and reliable web applications with a strong focus on clean code and great UX.
+*   ⚔️ **`CORE_STACK:`** Actively building and continuously expanding my knowledge within the **MERN stack** & **Next.js** ecosystems.
+*   🧠 **`DEV_JOURNEY:`** I love exploring the entire development lifecycle. I'm just as excited about learning to structure a solid database schema as I am about styling a beautiful frontend.
+*   👾 **`SYSTEM_QUIRK:`** I treat debugging like solving a puzzle—every error is just a new opportunity to learn and become a better developer! 😄
+  
 ---
 
-## 🚀 About Me
+## 🛠️ `TECH_ARSENAL`
 
-I’m a **passionate Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+<div align="center">
 
-My primary expertise lies in the **MERN stack and Next.js**, where I enjoy working across the entire development lifecycle — from designing efficient back-end architectures to crafting intuitive and responsive user interfaces.
+### `Frontend`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css" />
+</p>
 
-I love learning new technologies, improving performance, and writing clean, maintainable code that solves real-world problems.
+### `Backend & Database`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,laravel" />
+</p>
+
+### `Tools & Design`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode" />
+</p>
+
+</div>
 
 ---
 
-## 🔎 Quick Info
+## 📊 `GITHUB_METRICS`
 
-- 🔭 Portfolio: **https://sumytadev.vercel.app/**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/176RlhRwrlo0nE7c_mKOd8ebtKpCdIuLm/view)**
-- 📧 Email: **sumytabenteyhabib@gmail.com**
-- ⚡ Fun Fact: I enjoy debugging and optimizing code — turning issues into learning opportunities 😄
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumyta-Bentey-Habib&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B2C1&icon_color=FF007F" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumyta-Bentey-Habib&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=FF007F&currStreakNum=A1B2C1" alt="GitHub Streak" width="48%"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumyta-Bentey-Habib&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFEA00&text_color=A1B2C1" alt="Top Languages" width="60%"/>
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 `ACHIEVEMENTS_LOG`
 
-| Achievement | Description |
-|:--:|---|
+| Achievement Badge | Milestone Description |
+|:---:|:---|
 | ⚡ **Quickdraw** | Closed a pull request within minutes |
 | 🦈 **Pull Shark ×2** | Multiple pull requests successfully merged |
 | 😎 **YOLO** | Merged a pull request without review |
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 `CURRENT_PROCESSES`
 
-### 💻 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45"/>
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-</p>
-
-### 🎨 Styling & Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/daisyui.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vercel-1.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-</p>
+> Executing background processes to enhance core development skills...
+- ❇️ Deepening advanced **JavaScript/TypeScript** concepts and architectural patterns.
+- ❇️ Crafting ultra-scalable applications with **React & Next.js**.
+- ❇️ Structuring secure, lightning-fast APIs using **Node.js & Express**.
+- ❇️ Improving performance, accessibility, and dynamic UX using libraries like **AOS** and **Framer Motion**.
 
 ---
-
-## 🌱 Currently Learning & Improving
-
-I’m consistently working on strengthening my core development skills and best practices, including:
-
-- Advanced **JavaScript** concepts and patterns  
-- Building scalable applications with **React & Next.js**  
-- Writing efficient and secure APIs using **Node.js & Express**  
-- Designing optimized and scalable schemas in **MongoDB**  
-- Improving performance, accessibility, and UX  
-
----
-
-## 🧠 Development Philosophy
-
-- ✅ Write **clean, readable, and maintainable** code  
-- ✅ Focus on **performance and scalability**  
-- ✅ Prioritize **user experience**  
-- ✅ Learn continuously and adapt to new technologies  
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to discussing new ideas, collaborating on projects, or exploring opportunities to grow as a developer.
-
-<p>
-  <a href="https://www.linkedin.com/in/sumytabenteyhabib/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-</p>
-
----
-<p align="center">
-  <img 
-    src="https://github.com/Sumyta-Bentey-Habib/Sumyta-Bentey-Habib/blob/main/image.png?raw=true"
-    alt="Full Stack Developer Banner"
-    width="50%"
-  />
-</p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile — feel free to explore my repositories and connect!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,00E5FF&height=100&section=footer" width="100%"/>
+</p>
+<p align="center">
+  <code>⭐ Thanks for visiting my profile — feel free to explore my repositories and connect! ⭐</code>
 </p>
