@@ -65,12 +65,10 @@
 ## 📊 `GITHUB_METRICS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumyta-Bentey-Habib&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A1B2C1&icon_color=FF007F" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumyta-Bentey-Habib&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=FF007F&currStreakNum=A1B2C1" alt="GitHub Streak" width="48%"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumyta-Bentey-Habib&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFEA00&text_color=A1B2C1" alt="Top Languages" width="60%"/>
 </div>
 
 ---
