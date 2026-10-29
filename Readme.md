@@ -17,7 +17,7 @@
   <a href="mailto:sumytabenteyhabib@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=FF007F" alt="Email"/>
   </a>
-  <a href="https://drive.google.com/file/d/176RlhRwrlo0nE7c_mKOd8ebtKpCdIuLm/view" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1MB4ag-8obYWNby-78QHPxxxGPkNFzkHP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-0D1117?style=flat-square&logo=google-drive&logoColor=FFEA00" alt="Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/sumytabenteyhabib/" target="_blank" rel="noopener noreferrer">
